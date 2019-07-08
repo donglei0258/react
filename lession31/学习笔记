@@ -1,0 +1,54 @@
+1、代理服务器
+    1、在src目录下创建一个名字为setupProxy.js的文件
+    2、下载模块
+        cnpm install http-proxy-middleware -D
+    3、setupProxy使用：
+    // https://m.lagou.com/listmore.json?pageNo=2&pageSize=15
+        const proxy = require("http-proxy-middleware");
+        module.exports = function(app){
+           app.use("/lagou",proxy({
+                  target:"https://m.lagou.com",
+                  changeOrigin:true,
+                  pathRewrite:{
+                      "^/lagou":""
+                  }
+              }))
+
+           app.use(proxy("/lagou",{
+                  target:"https://m.lagou.com",
+                  changeOrigin:true,
+                  pathRewrite:{
+                      "^/lagou":""
+                  }
+              }))
+        }
+    redux
+    ********************************
+    cnpm install redux
+    import {
+        createStore,
+        combineReducers,
+        applyMiddleware,
+        bindActionCreators
+    } from "redux"
+2、pubsub-js模块
+    // 发布与订阅
+    发布：publish
+    订阅：subscribe
+    1、下载
+        cnpm install pubsub-js -S;
+    2、引入
+        import pubsub from 'pubsub-js'
+
+       发布消息
+            pubsub.publish("ok",1);// 第一个是消息的名字，第二个是消息的内容
+       订阅消息
+        // 接收的消息第一个是你消息的名字，第二个是你消息的内容
+            pubsub.subscribe("ok",(name,context)=>{
+                console.log(name,context);// 1
+            })
+
+        卸载消息：
+             pubsub.unsubscribe("ok");
+        卸载所有消息：
+             pubsub.clearAllSubscriptions();

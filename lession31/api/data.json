@@ -1,0 +1,243 @@
+{
+  "content": {
+    "data": {
+      "isLogin": false,
+      "page": {
+        "pageSize": 15,
+        "start": "15",
+        "result": [
+          {
+            "logger": {
+              "traceCapable": true,
+              "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4969235,
+            "positionName": "C++游戏开发",
+            "city": "杭州",
+            "createTime": "今天 11:57",
+            "salary": "15k-30k",
+            "companyId": 100928,
+            "companyLogo": "image2/M00/0D/9E/CgqLKVYgVXyAT08zAAHFYA7NT1U309.JPG?cc=0.11807257845066488",
+            "companyName": "Booming Games",
+            "companyFullName": "不鸣科技（杭州）有限公司"
+          },
+          {
+            "logger": {
+              "traceCapable": true,
+              "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4980594,
+            "positionName": "Java开发工程师",
+            "city": "广州",
+            "createTime": "今天 11:52",
+            "salary": "15k-25k",
+            "companyId": 41608,
+            "companyLogo": "i/image2/M01/7D/63/CgoB5lt2M0qAXLk2AAANATDDjhs853.png",
+            "companyName": "民贷天下",
+            "companyFullName": "民加科风信息技术有限公司"
+          },
+          {
+            "logger": {
+              "traceCapable": true,
+              "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4945735,
+            "positionName": "游戏开发工程师C++",
+            "city": "西安",
+            "createTime": "今天 11:51",
+            "salary": "6k-8k",
+            "companyId": 26126,
+            "companyLogo": "i/image/M00/23/7D/CgpEMlkSrVKAHwpKAAFV9DrskZA931.jpg",
+            "companyName": "维塔士",
+            "companyFullName": "上海维塔士电脑软件有限公司"
+          },
+          {
+            "logger": {
+              "traceCapable": true,
+              "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4826562,
+            "positionName": "HRBP（产研中心）",
+            "city": "北京",
+            "createTime": "今天 11:50",
+            "salary": "8k-12k",
+            "companyId": 306819,
+            "companyLogo": "i/image3/M00/2B/4D/CgpOIFqd-qqAWyQdAAAGvfEo0x8960.jpg",
+            "companyName": "北京华悦数金",
+            "companyFullName": "北京华悦数金科技有限公司"
+          },
+          {
+            "logger": {
+              "traceCapable": true,
+              "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4951782,
+            "positionName": "产品运营助理",
+            "city": "上海",
+            "createTime": "今天 11:50",
+            "salary": "7k-9k",
+            "companyId": 38479,
+            "companyLogo": "i/image/M00/00/5B/CgqKkVZEGOyAbCTiAAXDheynVko666.jpg",
+            "companyName": "趴趴出国留学教育",
+            "companyFullName": "上海茵朗信息科技有限公司"
+          },
+          {
+            "logger": {
+              "traceCapable": true,
+              "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4981788,
+            "positionName": "外刊运营实习生",
+            "city": "上海",
+            "createTime": "今天 11:50",
+            "salary": "2k-4k",
+            "companyId": 38479,
+            "companyLogo": "i/image/M00/00/5B/CgqKkVZEGOyAbCTiAAXDheynVko666.jpg",
+            "companyName": "趴趴出国留学教育",
+            "companyFullName": "上海茵朗信息科技有限公司"
+          },
+          {
+            "logger": {
+              "traceCapable": true,
+              "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4980933,
+            "positionName": "IOS开发工程师",
+            "city": "广州",
+            "createTime": "今天 11:49",
+            "salary": "9k-18k",
+            "companyId": 172579,
+            "companyLogo": "i/image2/M01/2F/0B/CgoB5lzZKp-ASVfWAABU3pnCLvI059.png",
+            "companyName": "思璞",
+            "companyFullName": "广州思璞网络科技有限公司"
+          },
+          {
+            "logger": {
+              "traceCapable": true,
+              "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4817719,
+            "positionName": "Java开发工程师（西安研发中心）",
+            "city": "西安",
+            "createTime": "今天 11:49",
+            "salary": "8k-12k",
+            "companyId": 24972,
+            "companyLogo": "image1/M00/00/33/CgYXBlTUXI-ADD3ZAACABNCdj2A066.jpg",
+            "companyName": "竞业达",
+            "companyFullName": "北京竞业达数码科技股份有限公司"
+          },
+          {
+            "logger": {
+              "traceCapable": true,
+              "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4609990,
+            "positionName": "教官/班主任",
+            "city": "北京",
+            "createTime": "今天 11:49",
+            "salary": "5k-6k",
+            "companyId": 236399,
+            "companyLogo": "i/image/M00/7A/5C/CgpFT1pMllCAZjm-AABgt03uRIE630.jpg",
+            "companyName": "工商管理专修学院",
+            "companyFullName": "北京工商管理专修学院"
+          },
+          {
+            "logger": {
+              "traceCapable": true,
+              "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4943075,
+            "positionName": "前端开发讲师",
+            "city": "北京",
+            "createTime": "今天 11:49",
+            "salary": "15k-20k",
+            "companyId": 236399,
+            "companyLogo": "i/image/M00/7A/5C/CgpFT1pMllCAZjm-AABgt03uRIE630.jpg",
+            "companyName": "工商管理专修学院",
+            "companyFullName": "北京工商管理专修学院"
+          },
+          {
+            "logger": {
+              "traceCapable": true,
+              "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4829994,
+            "positionName": "淘宝客服（售前/售后）",
+            "city": "杭州",
+            "createTime": "今天 11:49",
+            "salary": "4k-6k",
+            "companyId": 214244,
+            "companyLogo": "i/image/M00/34/E0/CgpFT1lDVyyABwjfAAAMo2OQwEQ322.jpg",
+            "companyName": "杭州亚历蒂斯进出口有限公司",
+            "companyFullName": "杭州亚历蒂斯进出口有限公司"
+          },
+          {
+            "logger": {
+              "traceCapable": true,
+              "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4939358,
+            "positionName": "内容运营经理",
+            "city": "北京",
+            "createTime": "今天 11:49",
+            "salary": "15k-25k",
+            "companyId": 6774,
+            "companyLogo": "image1/M00/00/0E/CgYXBlTUWCaAd9kEAAC6HJLNsY8968.png",
+            "companyName": "酷我音乐",
+            "companyFullName": "北京酷我科技有限公司"
+          },
+          {
+            "logger": {
+              "traceCapable": true,
+              "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4964949,
+            "positionName": ".net开发工程师",
+            "city": "深圳",
+            "createTime": "今天 11:48",
+            "salary": "7k-10k",
+            "companyId": 328895,
+            "companyLogo": "i/image3/M00/23/DD/Cgq2xlqWJKKACMAHAAALiZwuVJE722.jpg",
+            "companyName": "泛员网",
+            "companyFullName": "深圳泛员网网络科技有限公司"
+          },
+          {
+            "logger": {
+              "traceCapable": true,
+              "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4566936,
+            "positionName": "客服（售后）",
+            "city": "杭州",
+            "createTime": "今天 11:48",
+            "salary": "4k-6k",
+            "companyId": 65155,
+            "companyLogo": "i/image3/M00/3B/C3/Cgq2xlqvF5qAYn_-AAE_qb6__jk568.png",
+            "companyName": "海拍客",
+            "companyFullName": "杭州洋驼网络科技有限公司"
+          },
+          {
+            "logger": {
+              "traceCapable": true,
+              "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4567431,
+            "positionName": "社群运营专员",
+            "city": "杭州",
+            "createTime": "今天 11:48",
+            "salary": "10k-20k",
+            "companyId": 65155,
+            "companyLogo": "i/image3/M00/3B/C3/Cgq2xlqvF5qAYn_-AAE_qb6__jk568.png",
+            "companyName": "海拍客",
+            "companyFullName": "杭州洋驼网络科技有限公司"
+          }
+        ],
+        "totalCount": "243355",
+        "pageNo": 2
+      }
+    },
+    "rows": []
+  },
+  "message": "第2页数据,每页15条, 查询成功!",
+  "state": 1
+}
